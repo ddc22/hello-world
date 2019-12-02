@@ -1,0 +1,12 @@
+{
+  "name": "@dehandecroos/hello-world",
+  "version": "1.0.3",
+  "description": "A simple hello world",
+  "main": "my-src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "private": false
+}
